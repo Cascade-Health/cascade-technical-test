@@ -2,7 +2,7 @@
 
 Welcome to Cascade's take home test for developers. We're excited to see what you can do!
 
-We want you to develop a Web application for medical practioners to write perscriptions and submit those persciptions to a system using the FHIR API. The time it takes to implement this will vary depending on your familiarity with the domain and FHIR standards. But even if you're not familiar we want to give you a chance to show us what you can do and maybe learn someting new along the way.
+We want you to develop a Web application for medical practioners to write prescriptions and submit those presciptions to a system using the FHIR API. The time it takes to implement this will vary depending on your familiarity with the domain and FHIR standards. But even if you're not familiar we want to give you a chance to show us what you can do and maybe learn someting new along the way.
 
 ## Requirements
 
