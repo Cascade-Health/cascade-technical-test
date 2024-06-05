@@ -28,7 +28,7 @@ Your solution should:
 1. Our priority is that it works and you can demo it to us
 2. We want to see your ability to develop in the medical domain using the FHIR standard.
 3. Even though authentication is out of scope we're going to make sure there aren't any glaring security flaws (E.g., like API keys shipped to the client)
-4. We want you to be able to walk us through your code and explain your technical decisions and what you would cange if you were building for production instead of a PoC.
+4. We want you to be able to walk us through your code and explain your technical decisions and what you would change if you were building for production instead of a PoC.
 
 ## Key concepts and helpful resources
 
