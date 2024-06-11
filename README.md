@@ -32,7 +32,7 @@ Your solution should:
 
 ## Key concepts and helpful resources
 
-- [Perscriptions](https://www.ncbi.nlm.nih.gov/books/NBK538424/)
+- [Prescriptions](https://www.ncbi.nlm.nih.gov/books/NBK538424/)
 - [FHIR](https://www.medplum.com/docs/fhir-basics)
 - [Medplum](https://www.medplum.com/docs).
 
