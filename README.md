@@ -1,4 +1,4 @@
-# Cascade Technical Test
+## Cascade Technical Test
 
 Welcome to Cascade's take home test for developers. We're excited to see what you can do!
 
@@ -19,9 +19,10 @@ Your solution should:
 
 1. Signup for a trial of [Medplum's cloud offering](https://app.medplum.com/)
 2. Create a [ClientApplication](https://www.medplum.com/docs/api/fhir/medplum/clientapplication) resource in the Medplum dashboard to generate a client ID and secret for making API calls to your Medplum instance
-3. Develop your application in any language you want so long as it runs in the browser (😉)
-4. Come up with a way for the patient to schedule the request, e.g. use https://formsort.com/ or whatever else you would pick for a great experience for the patient.
-5. Commit your code to a git repository that you can share with us
+   To shorten time: these are the right resources in FHIR xxxxxx Nich to refine 
+4. Develop your application in any language you want so long as it runs in the browser (😉)
+5. Come up with a way for the patient to schedule the request and connect with your API
+6. Commit your code to a git repository that you can share with us
 4. Insure that you can provide a live demo with working code at least from your local machine.
 
 Elements that we are curious about: 
@@ -40,7 +41,6 @@ What applications of AI do you see for this flow and usecases adjacent to the bo
 
 ## Key concepts and helpful resources
 
-- [Formsort](https://formsort.com/) 
 - [FHIR](https://www.medplum.com/docs/fhir-basics)
 - [Medplum](https://www.medplum.com/docs).
 
