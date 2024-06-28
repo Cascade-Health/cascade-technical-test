@@ -18,7 +18,7 @@ Your solution should:
 ## Instructions
 
 1. Signup for a trial of [Medplum's cloud offering](https://app.medplum.com/)
-2. Create a [ClientApplication](https://www.medplum.com/docs/api/fhir/medplum/clientapplication) resource in the Medplum dashboard to generate a client ID and secret for making API calls to your Medplum instance
+2. Create a project, client application, practitioner [ClientApplication](https://www.medplum.com/docs/api/fhir/medplum/clientapplication) resource in the Medplum dashboard to generate a client ID and secret for making API calls to your Medplum instance
    To shorten time: these are the right resources in FHIR xxxxxx Nich to refine 
 4. Develop your application in any language you want so long as it runs in the browser (😉)
 5. Come up with a way for the patient to schedule the request and connect with your API
