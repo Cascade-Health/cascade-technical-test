@@ -2,7 +2,7 @@
 
 Welcome to Cascade's take home test for developers. We're excited to see what you can do!
 
-We want you to develop a Web application for medical practioners to take over appointment requests from their patients in a web interface. The time it takes to implement this will vary depending on your familiarity with the domain and FHIR standards. But even if you're not familiar we want to give you a chance to show us what you can do and maybe learn someting new along the way.
+We want you to develop a Web application for medical practioners to take over appointment requests from patients in a web interface. We would like to see what you can achieve in 5-6h, so please tell us when you start and end. 
 
 ## Requirements
 
@@ -11,17 +11,16 @@ By the end of this exercise we want you to present us with a simple web applicat
 Your solution should:
 
 - Be presented in a public GitHub repository
-- Present a UI for accepting patient appointment requests  as a medical practioner
-- Consist of a barebones fullstack web application with a frontend and backend
-- Store created data in an Medplum instance using the FHIR API.
+- Present a UI for accepting patient appointment requests as a medical practioner
+- Consist of a barebone fullstack web application with a frontend and backend
+- At least one data point in an Medplum instance using the FHIR API - can be really basic, we just want to see that you can familiarize yourself quickly with the basicas of FHIR.
 
 ## Instructions
 
 1. Signup for a trial of [Medplum's cloud offering](https://app.medplum.com/)
-2. Create a project, client application, practitioner [ClientApplication](https://www.medplum.com/docs/api/fhir/medplum/clientapplication) resource in the Medplum dashboard to generate a client ID and secret for making API calls to your Medplum instance
-   To shorten time: these are the right resources in FHIR xxxxxx Nich to refine 
+2. Create e.g. a project / client application / practitioner [ClientApplication](https://www.medplum.com/docs/api/fhir/medplum/clientapplication) resource in the Medplum dashboard to generate a client ID and secret for making API calls to your Medplum instance. 
 4. Develop your application in any language you want so long as it runs in the browser (😉)
-5. Come up with a way for the patient to schedule the request and connect with your API
+5. Come up with a way for the patient to schedule a request and connect with the practioner side. 
 6. Commit your code to a git repository that you can share with us
 4. Insure that you can provide a live demo with working code at least from your local machine.
 
@@ -35,7 +34,7 @@ What applications of AI do you see for this flow and usecases adjacent to the bo
 ## How your work will be evaluated by our team
 
 1. Our priority is that it works and you can demo it to us
-2. We want to see your ability to develop in the medical domain using the FHIR standard.
+2. We want to see your ability to develop in the medical domain, sharing a usercentric approach when developing software.
 3. Even though authentication is out of scope we're going to make sure there aren't any glaring security flaws (E.g., like API keys shipped to the client)
 4. We want you to be able to walk us through your code and explain your technical decisions and what you would change if you were building for production instead of a PoC.
 
