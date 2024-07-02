@@ -25,11 +25,11 @@ Your solution should:
 4. Insure that you can provide a live demo with working code at least from your local machine.
 
 Elements that we are curious about: 
-How will you structure the appointment booking logic to make the best use of the doctor's valuable time? 
-How will you set this up so that the process can scale reliably and cheaply and onboard 1.000 doctors? 
-How do you think about analytics? How would you measure if your setup is successful? What tools would you use? 
-How do you think about data storage, especially when thinking about more data being included in the booking process on both the patient and the doctor side, e.g. the patient sharing his medical history? 
-What applications of AI do you see for this flow and usecases adjacent to the booking process that will make the journey more joyful for patients and providers?  
+- How will you structure the appointment booking logic to make the best use of the doctor's valuable time?
+- How will you set this up so that the process can scale reliably and cheaply and onboard 1.000 doctors?
+- How do you think about analytics? How would you measure if your setup is successful? What tools would you use?
+- How do you think about data storage, especially when thinking about more data being included in the booking process on both the patient and the doctor side, e.g. the patient sharing his medical history?
+- What applications of AI do you see for this flow and usecases adjacent to the booking process that will make the journey more joyful for patients and providers?  
 
 ## How your work will be evaluated by our team
 
