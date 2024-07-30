@@ -42,10 +42,10 @@ Elements that we are curious about:
 
 - [FHIR](https://www.medplum.com/docs/fhir-basics)
 - [Medplum](https://www.medplum.com/docs).
+- https://storybook.medplum.com/?path=/docs/medplum-introduction--docs
 
 Libraries for interacting with FHIR (optional)
 
-- [https://bonfhir.dev/packages/core/fhir-client](https://bonfhir.dev/packages/core/fhir-client)
 - [https://www.medplum.com/docs/sdk/core.medplumclient](https://www.medplum.com/docs/sdk/core.medplumclient)
 - [API docs](https://www.medplum.com/docs/api)
 
